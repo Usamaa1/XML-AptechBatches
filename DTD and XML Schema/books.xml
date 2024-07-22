@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<?xml-model href="books.dtd" type="application/xml-dtd"?>
+
+<bookstore>
+    <books isbn="23233993298329">
+        <title>Rich Dad Poor Dad</title>
+        <author>R.M Williams</author>
+        <year>2020</year>
+        <price>450</price>
+    </books>
+    <books isbn="239923989238">
+        <title>Rich Dad Poor Dad</title>
+        <author>R.M Williams</author>
+        <year>2020</year>
+        <price currency="USD">450</price>
+    </books>
+    <books isbn="232-32323">
+        <title>Rich Dad Poor Dad</title>
+        <author>William Burney</author>
+        <year>2020</year>
+        <price>450</price>
+    </books>
+    <books isbn="2382983982">
+        <title>Rich Dad Poor Dad</title>
+        <author>R.M Williams</author>
+        <year>2020</year>
+        <price>450</price>
+    </books>
+</bookstore>

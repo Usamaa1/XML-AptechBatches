@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="bookstore.xsd" type="application/xml" schematypens="http://www.w3.org/2001/XMLSchema"?>
+
+<bookstore>
+    <book isbn="23232333">
+        <title>Hello into my World</title>
+        <author>Jame Krane</author>
+        <year>2024</year>
+        <price>23.2</price>
+    </book>
+    <book isbn="435435345">
+        <title>Hello into my World</title>
+        <author>Jame Krane</author>
+        <year>2024</year>
+        <price currency="USD">23.2</price>
+    </book>
+    <book isbn="435343453">
+        <title>Hello into my World</title>
+        <author>Jame Krane</author>
+        <year>2024</year>
+        <price>23.2</price>
+    </book>
+    <book isbn="345353323">
+        <title>Hello into my World</title>
+        <author>Jame Krane</author>
+        <year>2024</year>
+        <price>23.2</price>
+    </book>
+
+</bookstore>
